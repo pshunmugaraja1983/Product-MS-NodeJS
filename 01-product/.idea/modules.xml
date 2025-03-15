@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-product.iml" filepath="$PROJECT_DIR$/.idea/01-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02-customer/.idea/02-customer.iml" filepath="$PROJECT_DIR$/../02-customer/.idea/02-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-order/.idea/03-order.iml" filepath="$PROJECT_DIR$/../03-order/.idea/03-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/ECommerce-NodeJS-MS.iml" filepath="$PROJECT_DIR$/../.idea/ECommerce-NodeJS-MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../IT-Projects/Movie-Manager/Movie-Manager-2/Movie-App-master/client/.idea/client.iml" filepath="$PROJECT_DIR$/../../../../../../../IT-Projects/Movie-Manager/Movie-Manager-2/Movie-App-master/client/.idea/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../IT-Projects/Movie-Manager/Movie-Manager-2/Movie-App-master/server/.idea/server.iml" filepath="$PROJECT_DIR$/../../../../../../../IT-Projects/Movie-Manager/Movie-Manager-2/Movie-App-master/server/.idea/server.iml" />
+    </modules>
+  </component>
+</project>
